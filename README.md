@@ -19,8 +19,8 @@
 <br>
 
 <p align="center"> 
-  <a href = "https://leetcode.com/trungtrn/">
-    <img src="https://leetcard.jacoblin.cool/trungtrn?theme=unicorn&font=Almarai"/>
+  <a style="text-decoration:none" href="https://leetcode.com/trungtrn/">
+    <img style="width:60%" src="https://leetcard.jacoblin.cool/trungtrn?theme=nord&font=Ubuntu&ext=contest"/>
   </a>
 </p> 
 
