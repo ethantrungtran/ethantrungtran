@@ -1,7 +1,7 @@
 
-<div>
-<a href="https://trantrung142.github.io/" target="_blank">
-        <img src="https://github-widgetbox.vercel.app/api/profile?username=trantrung142&data=followers,repositories,stars,commits&theme=dark" alt="GitHub WidgetBox" width="90%" height="0%">
+<div align="center">
+<a href="https://ethantrungtran.github.io/" target="_blank">
+        <img src="https://github-widgetbox.vercel.app/api/profile?username=ethantrungtran&data=followers,repositories,stars,commits&theme=dark" alt="GitHub WidgetBox" width="90%" height="0%">
 </a>
 </div>
 
@@ -34,20 +34,20 @@
 <br>
 
 <div align="center">  
-   <img width="45%" height="240px" src="https://github-readme-stats.vercel.app/api?username=trantrung142&custom_title=%20GitHub%20Stats&show_icons=true&theme=holi&rank_icon=percentile" alt="Ata's github stats" /> 
-  <img width="45%" height="250px" src="https://streak-stats.demolab.com?user=trantrung142&theme=dark" alt="Ata's github streak stats"/>
+   <img width="45%" height="240px" src="https://github-readme-stats.vercel.app/api?username=ethantrungtran&custom_title=%20GitHub%20Stats&show_icons=true&theme=holi&rank_icon=percentile" alt="Ata's github stats" /> 
+  <img width="45%" height="250px" src="https://streak-stats.demolab.com?user=ethantrungtran&theme=dark" alt="Ata's github streak stats"/>
 </div>
 
 <div align="center">  
   
-  <img width="90%" height="250px" src="https://myreadme.vercel.app/api/embed/trantrung142?panels=userstatistics,toprepositories,toplanguages,commitgraph&theme=dark" alt="Ata's github extra stats"/>
+  <img width="90%" height="250px" src="https://myreadme.vercel.app/api/embed/ethantrungtran?panels=userstatistics,toprepositories,toplanguages,commitgraph&theme=dark" alt="Ata's github extra stats"/>
 </div>
 
 <div align="center"> 
   <h3> 🏆 GitHub Profile Trophy </h3>
 </div>
  <div>
-  <img width=1000 src="https://github-profile-trophy.vercel.app/?username=trantrung142&theme=onedark&bg_color=000000&column=-1"/>
+  <img width=1000 src="https://github-profile-trophy.vercel.app/?username=ethantrungtran&theme=onedark&bg_color=000000&column=-1"/>
 </div>
 
 <div align="center"> 
